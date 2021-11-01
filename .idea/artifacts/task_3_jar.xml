@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="task_3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/task_3_jar</output-path>
+    <root id="root">
+      <element id="archive" name="task_3.jar">
+        <element id="module-output" name="task_3" />
+      </element>
+      <element id="library" level="project" name="asciitable-0.3.2" />
+      <element id="library" level="project" name="bouncycastle.bcpg.jdk15on" />
+      <element id="library" level="project" name="de.vandermeer.asciitable" />
+    </root>
+  </artifact>
+</component>

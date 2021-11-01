@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.company.Main
+Class-Path: bcpg-jdk15on-1.69.jar bcprov-jdk15on-1.69.jar asciitable-0.3
+ .2.jar ascii-utf-themes-0.0.1.jar skb-interfaces-0.0.1.jar commons-lang
+ 3-3.4.jar ST4-4.0.8.jar antlr-runtime-3.5.2.jar antlr4-4.5.1.jar slf4j-
+ api-1.7.12.jar char-translation-0.0.2.jar
+
